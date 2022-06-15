@@ -3,20 +3,7 @@
 
 ---
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>ক্রমিক নং</b></td>
-      <td><b>বিষয়</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>০১</td>
-      <td>
-
-[অ্যালগোরিদম এনালাইসিস](./algorithm-analysis/algorithm-analysis.md)
-      </td>
-    </tr>
-  </tbody>
-</table>
+|  ক্রমিক নং  |      বিষয়      |
+|------------|:--------------------------------------------------------------------:|
+|     ০১     |  [অ্যালগোরিদম এনালাইসিস](./algorithm-analysis/algorithm-analysis.md)  |
+|     ০২     |  Cooking..  |
